@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "818752776864",
+    "firebase_url": "https://fir-practice-8830c.firebaseio.com",
+    "project_id": "fir-practice-8830c",
+    "storage_bucket": "fir-practice-8830c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818752776864:android:d8f5b629af0df5af",
+        "android_client_info": {
+          "package_name": "com.example.homepc.firebasepractice.fireget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818752776864-ssjpe69gnrsj459soj1rrb10vvebn0kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homepc.firebasepractice.fireget",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "818752776864-02l9u4blecril49curkoqjimvprdme26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKn0IMCirKM5RG4_Yf9wW9LGfBWsaLt8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818752776864-02l9u4blecril49curkoqjimvprdme26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818752776864:android:26e0d071bdd58966",
+        "android_client_info": {
+          "package_name": "com.example.homepc.realget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818752776864-28r41vkc5ggoigs2res2r3g1bpt6mlhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homepc.realget",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "818752776864-02l9u4blecril49curkoqjimvprdme26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKn0IMCirKM5RG4_Yf9wW9LGfBWsaLt8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818752776864-02l9u4blecril49curkoqjimvprdme26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

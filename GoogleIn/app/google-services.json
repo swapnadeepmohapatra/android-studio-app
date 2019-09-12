@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "82129419203",
+    "firebase_url": "https://signin-b44cf.firebaseio.com",
+    "project_id": "signin-b44cf",
+    "storage_bucket": "signin-b44cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82129419203:android:96eac2dfb85eb007",
+        "android_client_info": {
+          "package_name": "com.example.homepc.googlein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82129419203-lsj50ob3resaj6o223hejiqdf1ll2h75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCui83qbnDBeMmStgmmLbxuhscSH4nb1vo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

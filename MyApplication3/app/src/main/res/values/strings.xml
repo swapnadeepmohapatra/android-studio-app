@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">e-SwachhBin</string>
+    <string name="binFull">The Dustbin is Full</string>
+    <string name="binEmpty">The Dustbin is Empty</string>
+    <string name="binMid1">Clean the Dustbin right now</string>
+    <string name="binMid2">Clean the dustbin if possible</string>
+    <string name="binMid3">The Dustbin has some Garbage</string>
+    <string name="error">Error !!!</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

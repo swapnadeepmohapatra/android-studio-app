@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "268998991481",
+    "firebase_url": "https://kishan-know.firebaseio.com",
+    "project_id": "kishan-know",
+    "storage_bucket": "kishan-know.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268998991481:android:424b9608d6d88991",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.kishanknow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268998991481-f5ouh1jldni9qfj2did5nkqi63ni5knq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.kishanknow",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "268998991481-oe76oso4rqhohkivtt0r9s59v1a6lout.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoklPN9tc_BvyWhSj_TBiWAN4qwSavVGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268998991481-oe76oso4rqhohkivtt0r9s59v1a6lout.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

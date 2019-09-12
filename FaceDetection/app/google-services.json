@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "759241726222",
+    "firebase_url": "https://e-swachhbin.firebaseio.com",
+    "project_id": "e-swachhbin",
+    "storage_bucket": "e-swachhbin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759241726222:android:be8999433220d585",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759241726222-dss1hvm0ub0p8mk0i40mkm54kppi9mm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.facedetection",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "759241726222-rcv1erktni6qb137e0t3gmurft7vtoc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm0uUfTu18I0hYWzXmBrgA5UwwLnNNBJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759241726222-rcv1erktni6qb137e0t3gmurft7vtoc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

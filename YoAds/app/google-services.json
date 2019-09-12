@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337850850308",
+    "firebase_url": "https://yoads-88efb.firebaseio.com",
+    "project_id": "yoads-88efb",
+    "storage_bucket": "yoads-88efb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337850850308:android:6f611a5176498586",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.yoads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337850850308-lf03dkukbsjpeg6l3j0104gccir5tpef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.yoads",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "337850850308-kl6jmslrnqctf06bkpi3ln45oatdsn24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnwyBJxc-VwgE7-JHmpB0nPdJz6lgpDzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337850850308-kl6jmslrnqctf06bkpi3ln45oatdsn24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

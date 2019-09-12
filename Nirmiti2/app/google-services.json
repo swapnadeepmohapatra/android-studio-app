@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747205715671",
+    "firebase_url": "https://nirmiti-f87cf.firebaseio.com",
+    "project_id": "nirmiti-f87cf",
+    "storage_bucket": "nirmiti-f87cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747205715671:android:ba75f659aa4d251d",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.nirmiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747205715671-r8j5rf2fm4pi7nfprut9qm5mh1ck8v5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.nirmiti",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "747205715671-qetqq1ff09tmhnde60b1228i3vuibupn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9_45tOkzPRn-UJRBJ69rWbdyBvOgbaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747205715671-qetqq1ff09tmhnde60b1228i3vuibupn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

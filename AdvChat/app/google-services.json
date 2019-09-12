@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "643569204188",
+    "firebase_url": "https://advchat-47c60.firebaseio.com",
+    "project_id": "advchat-47c60",
+    "storage_bucket": "advchat-47c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643569204188:android:7d71c5d511e176ec",
+        "android_client_info": {
+          "package_name": "com.example.homepc.advchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643569204188-cmnjepdr6ucs0bo82k0vj63an3fb2isc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homepc.advchat",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "643569204188-3av2n2l9qdvurg63f7hoj7opf9692r4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcn3kbJHZwafbsAuJx8jrzw9qD9iTAMyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643569204188-3av2n2l9qdvurg63f7hoj7opf9692r4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

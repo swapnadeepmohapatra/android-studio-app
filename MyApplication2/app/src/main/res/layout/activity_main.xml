@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/football"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Run Counter"
+        android:fontFamily="Algerian"
+        android:textColor="#fff"
+        android:textSize="45dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/made"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="made by - swapnadeep"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:layout_centerInParent="true"
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/love"
+        android:layout_height="wrap_content"
+        android:text="with love"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:layout_below="@id/made"
+        android:textColor="@color/colorAccent"
+        android:layout_centerInParent="true"
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="from india"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:layout_below="@id/love"
+        android:textColor="@color/colorPrimary"
+        android:layout_centerInParent="true"
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+
+</RelativeLayout>

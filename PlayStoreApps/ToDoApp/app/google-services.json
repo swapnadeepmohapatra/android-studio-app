@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419481560201",
+    "firebase_url": "https://swapnadeepportfolio.firebaseio.com",
+    "project_id": "swapnadeepportfolio",
+    "storage_bucket": "swapnadeepportfolio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419481560201:android:2cad7cc1b84983f1",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419481560201-2ku74oq51mdomhhq8muokh0t4p2q27gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.todoapp",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "419481560201-8oqa2ehcj9kndqqmov8gcakmuhbjv9v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJm_Ym4iDFSmGprmHTdXkMbSZkgaF0HrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419481560201-8oqa2ehcj9kndqqmov8gcakmuhbjv9v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

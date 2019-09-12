@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029676486513",
+    "firebase_url": "https://smartreply-b88c6.firebaseio.com",
+    "project_id": "smartreply-b88c6",
+    "storage_bucket": "smartreply-b88c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029676486513:android:f651fe7c13db735c",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.smartreply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029676486513-0v4hhm15of8g84o1778han0fvo25dg32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.smartreply",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "1029676486513-6pn7lcj2egi8tokusj4j1saktsangtia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_1-vTO9Klx1Ls7Y0HjIoOqbxCEE1FTnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029676486513-6pn7lcj2egi8tokusj4j1saktsangtia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

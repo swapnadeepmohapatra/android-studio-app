@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/tower"/>
+    <item
+        android:width="400dp"
+        android:height="500dp"
+        android:bottom="-180dp"
+        android:drawable="@drawable/ic_img_made_in_india"
+        android:gravity="bottom|center_horizontal"/>
+
+</layer-list>

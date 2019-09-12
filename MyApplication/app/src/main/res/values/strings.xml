@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="third">Third</string>
+    <string name="load">Please wait while we load the app...</string>
+</resources>

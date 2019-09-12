@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="My Bookings"
+        android:id="@+id/menu_bookings"></item>
+    <item
+        android:id="@+id/menu_rebook"
+        android:title="New Day"></item>
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"></item>
+
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="save">Save</string>
+    <string name="finish_by">Finish By…</string>
+    <string name="description">Description…</string>
+    <string name="task">Task…</string>
+    <string name="add_a_task">Add a Task</string>
+    <string name="completed">Completed</string>
+    <string name="go_bring_eggs">Go Bring Eggs</string>
+    <string name="bring_6_eggs_from_super_market">Bring 6 eggs from super market</string>
+    <string name="_5pm_today">5pm today</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="mark_as_finished">Mark as finished</string>
+    <string name="update_task">Update Task</string>
+    <string name="email_sent">Saved</string>
+</resources>

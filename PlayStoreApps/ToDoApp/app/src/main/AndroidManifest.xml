@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.github.swapnadeepmohapatra.todoapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UpdateTaskActivity" />
+        <activity android:name=".AddTaskActivity"/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="1c69d3fd663ba1c6360913a575c850ad654a33d9" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

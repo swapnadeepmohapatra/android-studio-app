@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "530777863267",
+    "firebase_url": "https://projectxschool-6828c.firebaseio.com",
+    "project_id": "projectxschool-6828c",
+    "storage_bucket": "projectxschool-6828c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530777863267:android:adde90997e05cc5f",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.projectxschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530777863267-mvmq1q0j4kc6egntod4cb0lpb36pn3aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.projectxschool",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "530777863267-jcnit7qh3556s2v6aaaujs85vf5471mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCShx32US8Cyias9HEaE0a4-MUNlZEf1XY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530777863267-jcnit7qh3556s2v6aaaujs85vf5471mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

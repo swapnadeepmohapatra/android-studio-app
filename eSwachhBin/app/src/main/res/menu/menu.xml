@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Change RFID"
+        android:id="@+id/change">
+
+    </item>
+
+    <item android:title="Sign Out"
+        android:id="@+id/sign_out">
+
+    </item>
+</menu>

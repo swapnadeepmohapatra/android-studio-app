@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700563413345",
+    "firebase_url": "https://elezione-73a33.firebaseio.com",
+    "project_id": "elezione-73a33",
+    "storage_bucket": "elezione-73a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700563413345:android:c795a8f53fd6da9d",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.elezione"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700563413345-e3v1osbmd4hmajlbas1f61d3v6dctmhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.elezione",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "700563413345-kkm760uubtq6nldi79lns8qiu63pui8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOREI8vkmritrsJ8CfQX3wjiy8ygsHc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700563413345-kkm760uubtq6nldi79lns8qiu63pui8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

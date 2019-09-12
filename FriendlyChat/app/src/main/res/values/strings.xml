@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CampFire</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="about">About</string>
+    <string name="message">Type a message</string>
+    <string name="send">Send</string>
+    <string name="made">Made By - Swapnadeep Mohapatra</string>
+    <string name="about_us">About Us</string>
+</resources>

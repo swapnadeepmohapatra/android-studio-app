@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WallPape</string>
+    <string name="IndiaGate">India Gate</string>
+    <string name="cata">Cat - 1</string>
+    <string name="iphonex">iPhone X</string>
+    <string name="arrow">Girl with Arrow</string>
+    <string name="blackbk">Dark</string>
+    <string name="football">Fire Football</string>
+    <string name="balloon">Hot Air Balloon</string>
+    <string name="basketball">Boy Playing Basket Ball</string>
+    <string name="beacha">Beach Sunset</string>
+    <string name="beachb">Beach Surfing</string>
+    <string name="beachc">Sea Waves</string>
+    <string name="beachd">girl standing in seashore</string>
+    <string name="beache">Waves</string>
+    <string name="beachf">mountain landscape</string>
+    <string name="beachg">Sunset Landscape</string>
+    <string name="black">Black Pattern</string>
+</resources>

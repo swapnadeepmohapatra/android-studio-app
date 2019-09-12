@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "830556863305",
+    "firebase_url": "https://e-swachh.firebaseio.com",
+    "project_id": "e-swachh",
+    "storage_bucket": "e-swachh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830556863305:android:a4bf78607fad1a1f",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.e_swachhbinclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830556863305-vrolaon7d7un1ja4cnrrt3m7141eu2b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.e_swachhbinclient",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "830556863305-0l0v1h3vk9brushg2fuul900it4upg10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhdfnB1hEEBGmcProuDpHCVQ8LVebUOmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830556863305-0l0v1h3vk9brushg2fuul900it4upg10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830556863305:android:adf36264a06de97d",
+        "android_client_info": {
+          "package_name": "io.github.swapnadeepmohapatra.e_swachhbinncsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830556863305-taermkj6raj17m5hu5ll9rop0aj0pd10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.swapnadeepmohapatra.e_swachhbinncsc",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "830556863305-0l0v1h3vk9brushg2fuul900it4upg10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhdfnB1hEEBGmcProuDpHCVQ8LVebUOmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830556863305-0l0v1h3vk9brushg2fuul900it4upg10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

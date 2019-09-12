@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="back">Play</string>
+    <string name="rewind">Back</string>
+    <string name="forward">Forward</string>
+    <string name="pause">Pause</string>
+    <string name="song1">Ain\'t My Fault</string>
+    <string name="song2">Raat Kamaal Hai</string>
+    <string name="song3">Salamat</string>
+    <string name="song4">Alone - Marshmello</string>
+</resources>

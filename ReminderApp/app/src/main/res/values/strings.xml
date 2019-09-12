@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reminder App</string>
+    <string name="mDefault">10 Seconds Timer</string>
+    <string name="result">Not Done Yet</string>
+</resources>

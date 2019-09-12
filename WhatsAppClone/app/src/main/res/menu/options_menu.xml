@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_find_friends_option"
+        android:icon="@drawable/ic_person_add_white_24dp"
+        android:title="Find Friends"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+    <item
+        android:id="@+id/main_create_group_option"
+        android:icon="@drawable/ic_group_add_black_24dp"
+        android:title="Create Group"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+    <item
+        android:id="@+id/main_settings_option"
+        android:icon="@drawable/account_settings"
+        android:title="Account Settings"
+        app:showAsAction="ifRoom">
+
+
+    </item>
+
+    <item
+        android:id="@+id/main_theme_settings_option"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="App Settings"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+    <item
+        android:id="@+id/main_logout_option"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Logout"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nirmiti</string>
+    <string name="binFull">Full</string>
+    <string name="binEmpty">Empty</string>
+    <string name="binMid1">Almost Full</string>
+    <string name="binMid2">Safe Level</string>
+    <string name="binMid3">Some Garbage</string>
+    <string name="error">Error !!!</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
+

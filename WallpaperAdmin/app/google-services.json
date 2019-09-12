@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "414016736685",
+    "firebase_url": "https://mywallpaperapp-804a5.firebaseio.com",
+    "project_id": "mywallpaperapp-804a5",
+    "storage_bucket": "mywallpaperapp-804a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414016736685:android:dfd6908f9e861426",
+        "android_client_info": {
+          "package_name": "com.example.homepc.wallpaperadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414016736685-tcqh9kgks4i4sh0qkp20s1vtvehghnuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homepc.wallpaperadmin",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "414016736685-ii8i1qqa15p2cqn83kfb4su9jd1fmigf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkABVq6dXiH6QwwAz1MRgsVrh1XA_ZUzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414016736685-ii8i1qqa15p2cqn83kfb4su9jd1fmigf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414016736685:android:195715a6e6dff93b",
+        "android_client_info": {
+          "package_name": "com.example.homepc.wallpaperhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414016736685-oelqm93jsi5lcpcvm6nokfu2r8bn3d8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homepc.wallpaperhub",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "414016736685-ii8i1qqa15p2cqn83kfb4su9jd1fmigf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkABVq6dXiH6QwwAz1MRgsVrh1XA_ZUzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414016736685-ii8i1qqa15p2cqn83kfb4su9jd1fmigf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

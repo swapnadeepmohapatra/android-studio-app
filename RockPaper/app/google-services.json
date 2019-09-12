@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "678615669394",
+    "firebase_url": "https://rockpaper-4a4b9.firebaseio.com",
+    "project_id": "rockpaper-4a4b9",
+    "storage_bucket": "rockpaper-4a4b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678615669394:android:6d1925f2284ef5eb",
+        "android_client_info": {
+          "package_name": "com.example.homepc.rockpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678615669394-veap3vne2b8o001lt4edteronu6gljpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRQK6xPAltN2A37Rlaje9V7GthGUBJeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
